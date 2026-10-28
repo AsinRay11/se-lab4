@@ -58,6 +58,7 @@ class TorpedoStoreTest {
 
         // Act
         assertThrows(IllegalArgumentException.class, () -> {store.fire(-1);});
+        assertThrows(IllegalArgumentException.class, () -> {store.fire(100);});
 
         // Assert
     }
