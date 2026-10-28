@@ -1,0 +1,5 @@
+#Primary empty, secondary has 2
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
